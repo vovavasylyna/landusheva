@@ -40,7 +40,7 @@ params:
     logo:
       path: images/logo.svg
       dark: images/logo.svg
-      link: /
+      link: /landusheva
       width: 120
       height: 60
     displayAnchoredHeadings: false
