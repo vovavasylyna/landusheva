@@ -36,8 +36,14 @@ menu:
 params:
   navbar:
     displayTitle: true
-    displayLogo: false
-    disableAnchoredHeadings: false
+    displayLogo: true
+    logo:
+      path: images/logo.svg
+      dark: images/logo.svg
+      link: /
+      width: 40
+      height: 20
+    displayAnchoredHeadings: false
 
   page:
     # full (100%), wide (90rem), normal (1280px)

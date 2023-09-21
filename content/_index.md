@@ -7,8 +7,8 @@ toc: false
 ## Explore
 
 {{< cards >}}
-  {{< card link="docs" title="Docs" icon="book-open" >}}
-  {{< card link="about" title="About" icon="user" >}}
+ {{< card link="/" title="Повний цикл" image="/images/1.png" subtitle="Від планування та проектування до супроводу будівельно-ремонтних робіт" >}}
+ {{< card link="/" title="Надамо усі послуги" image="/images/2.png" subtitle="Підготуємо обмірні плани, план демонтажу / монтажу, порекомендуємо меблі та сантехніку, створимо 3D-схеми та візуалізації, продумаємо освітлення, вентиляцію та кондиціонування" method="Resize" options="600x q80 webp" >}}
 {{< /cards >}}
 
 ## Documentation
