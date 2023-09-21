@@ -1,7 +1,1 @@
-table {
-  border-collapse: collapse;
-}
-td, th {
-  border: 0px solid #333;
-  padding: 0 .2em;
-}
+table { border-collapse:collapse }
