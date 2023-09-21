@@ -37,10 +37,15 @@ params:
   navbar:
     displayTitle: true
     displayLogo: false
+    disableAnchoredHeadings: false
+
+  page:
+    # full (100%), wide (90rem), normal (1280px)
+    width: full
 
   footer:
     displayCopyright: false
-    displayPoweredBy: true
+    displayPoweredBy: false
 
   editURL:
     enable: true
