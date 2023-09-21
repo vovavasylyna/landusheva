@@ -18,7 +18,7 @@ weight: 2
 
 Виявлення ваших потреб та з описом варіантів, як реалізувати те чи інше вподобання - в результаті ви **отримуєте комерційну пропозицію** з деталями роботи:
 
-![Untitled](https://github.com/vovavasylyna/landusheva/blob/main/static/images/process1.jpg)
+![Untitled](/process1.jpg)
 
 ### 2. Заключення договору
 
