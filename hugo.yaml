@@ -21,14 +21,17 @@ menu:
     - name: Портфоліо
       pageRef: /portfolio
       weight: 1
+    - name: Послуги
+      pageRef: /services
+      weight: 2
     - name: Про нас
       pageRef: /about
-      weight: 2
+      weight: 3
     - name: Контакти
       pageRef: /contact
-      weight: 3
-    - name: Instagram
       weight: 4
+    - name: Instagram
+      weight: 5
       url: "https://www.instagram.com/nastialandusheva/"
       params:
         icon: instagram
