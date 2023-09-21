@@ -54,7 +54,7 @@ params:
     width: full
 
   footer:
-    displayCopyright: true
+    displayCopyright: false
 
   editURL:
     enable: false

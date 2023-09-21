@@ -1,8 +1,7 @@
 ---
 title: Види послуг
 type: docs
-prev: /
-next: docs/folder/
+next: /landusheva/services-process
 weight: 1
 ---
 
