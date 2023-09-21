@@ -3,6 +3,7 @@ title: Види послуг
 type: docs
 prev: /
 next: docs/folder/
+weight: 1
 ---
 
 ## Види послуг
