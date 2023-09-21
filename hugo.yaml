@@ -5,6 +5,7 @@ title: бюро {ландушевої}
 module:
   imports:
   - path: github.com/imfing/hextra
+  - path: github.com/hugomods/images
 
 markup:
   # allow raw html
