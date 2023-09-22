@@ -7,7 +7,7 @@ toc: false
 ### Дізнайтеся більше
 
 {{< cards >}}
-  {{< card link="/landusheva/services/services" title="Послуги" subtitle="Від планування та проектування до супроводу будівельно-ремонтних робіт" >}}
+  {{< card link="/landusheva/services" title="Послуги" subtitle="Від планування та проектування до супроводу будівельно-ремонтних робіт" >}}
   {{< card link="/landusheva/portfolio" title="Портфоліо" subtitle="Приклади проектів бюро" >}}
   {{< card link="/landusheva/services/services-faq" title="FAQ" subtitle="Відповіді на всі питання щодо послуг і бюро в цілому" >}}
   {{< card link="/landusheva/contact" title="Контакти" subtitle="Зв'яжіться з нами" >}}
