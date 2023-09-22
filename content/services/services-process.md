@@ -1,6 +1,5 @@
 ---
 title: Процес проєктування
-type: docs
 prev: /landusheva/services-types
 next: /landusheva/services-faq
 weight: 2

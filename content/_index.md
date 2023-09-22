@@ -7,7 +7,8 @@ toc: false
 ### Дізнайтеся більше
 
 {{< cards >}}
-  {{< card link="/" title="Послуги" subtitle="Від планування та проектування до супроводу будівельно-ремонтних робіт" >}}
-  {{< card link="/" title="Як відбувається створення інтер'єру" subtitle="Детальний огляд процесу проектування" >}}
-  {{< card link="/" title="FAQ" >}}
+  {{< card link="/services/services" title="Послуги" subtitle="Від планування та проектування до супроводу будівельно-ремонтних робіт" >}}
+  {{< card link="/portfolio" title="Портфоліо" subtitle="Приклади проектів бюро" >}}
+  {{< card link="/services/services-faq" title="FAQ" subtitle="Відповіді на всі питання щодо послуг і бюро в цілому" >}}
+  {{< card link="/contact" title="Контакти" subtitle="Зв'яжіться з нами" >}}
 {{< /cards >}}
