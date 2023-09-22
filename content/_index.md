@@ -8,14 +8,8 @@ toc: false
 
 ### Дізнайтеся більше
 
-<p style="text-align: center;">
 {{< cards >}}
   {{< card link="/landusheva/services" title="Послуги" subtitle="Від планування та проектування до супроводу будівельно-ремонтних робіт" image="drawing.jpg" method="Resize" options="600x q80 webp" >}}
   {{< card link="/landusheva/portfolio" title="Портфоліо" subtitle="Приклади проектів бюро" image="dy1.jpg" method="Resize" options="600x q80 webp" >}}
+  {{< card link="/landusheva/services/services-faq" title="FAQ" subtitle="Відповіді на всі питання щодо послуг і бюро в цілому" image="qa.jpg" method="Resize" options="600x q80 webp" >}}
 {{< /cards >}}
-
-{{< cards >}}
-  {{< card link="/landusheva/services/services-faq" title="FAQ" subtitle="Відповіді на всі питання щодо послуг і бюро в цілому" >}}
-  {{< card link="/landusheva/contact" title="Контакти" subtitle="Зв'яжіться з нами!" >}}
-{{< /cards >}} 
-</p>
