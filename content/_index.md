@@ -9,8 +9,8 @@ toc: false
 ### Дізнайтеся більше
 
 {{< cards >}}
-  {{< card link="/landusheva/services" title="Послуги" subtitle="Від планування та проектування до супроводу будівельно-ремонтних робіт" image="drawing.jpg" method="Fit" options="600x q80 webp >}}
-  {{< card link="/landusheva/portfolio" title="Портфоліо" subtitle="Приклади проектів бюро" image="drawing.jpg" method="Fit" options="600x q80 webp >}}
+  {{< card link="/landusheva/services" title="Послуги" subtitle="Від планування та проектування до супроводу будівельно-ремонтних робіт" image="drawing.jpg" method="Fit" options="600x q80 webp" >}}
+  {{< card link="/landusheva/portfolio" title="Портфоліо" subtitle="Приклади проектів бюро" image="drawing.jpg" method="Fit" options="600x q80 webp" >}}
 {{< /cards >}}
 
 {{< cards >}}
