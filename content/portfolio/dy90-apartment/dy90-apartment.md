@@ -1,7 +1,8 @@
 ---
 title: DY90 Apartment
-toc: false
 weight: 4
+type: docs
+prev: /landusheva/portfolio/calm-apartment
 ---
 ![1](dy1.jpg)
 
