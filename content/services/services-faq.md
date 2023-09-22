@@ -70,3 +70,8 @@ weight: 3
 {{< callout emoji="❓" >}}
   Є питання, на яке тут не була дана відповідь? [Напиши нам](/landusheva/contact). 
 {{< /callout >}}
+
+{{< cards >}}
+  {{< card link="/landusheva/portfolio" title="Портфоліо" subtitle="Приклади проектів бюро" method="Resize" options="600x q80 webp" >}}
+  {{< card link="/landusheva/contact" title="Контакти" subtitle="Зв'яжіться з нами!" >}}
+{{< /cards >}}
