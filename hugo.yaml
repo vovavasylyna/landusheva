@@ -47,7 +47,6 @@ params:
       link: /landusheva
       width: 120
       height: 60
-    displayAnchoredHeadings: false
     enableInlineShortcodes: true
 
   page:
