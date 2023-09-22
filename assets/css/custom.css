@@ -1,3 +1,8 @@
 .content {
-  font-family: Inter, Open Sans, Montserrat;
+  font-family: "Inter";
+  src: url('/fonts/Inter-Medium.ttf') format('truetype');
 }
+
+body {
+    font-family: "Inter";
+    }
