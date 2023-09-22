@@ -1,0 +1,7 @@
+@font-face {
+    font-family: "Inter";
+    src:
+      url("fonts/Inter-Regular.ttf") format("truetype"),
+      url("fonts/Inter-Regular.otf") format("opentype"),
+      url("fonts/Inter-Regular.woff") format("woff");
+  }
