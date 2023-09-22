@@ -3,7 +3,7 @@ title: DY90 Apartment
 weight: 5
 type: docs
 prev: /landusheva/portfolio/calm-apartment
-next: /landusheva/portfolio/plekay
+next: /landusheva/portfolio/musthave
 ---
 ![1](dy1.jpg)
 
