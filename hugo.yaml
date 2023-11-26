@@ -42,8 +42,8 @@ params:
     displayTitle: true
     displayLogo: true
     logo:
-      path: IMG_0538.png
-      dark: IMG_0538.png
+      path: muso-logo-black.png
+      dark: muso-logo-white.png
       link: /landusheva
       width: 120
       height: 60
