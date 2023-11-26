@@ -33,7 +33,7 @@ menu:
       weight: 4
     - name: Instagram
       weight: 5
-      url: "https://www.instagram.com/nastialandusheva/"
+      url: "https://www.instagram.com/muso.story"
       params:
         icon: instagram
 
@@ -42,8 +42,8 @@ params:
     displayTitle: true
     displayLogo: true
     logo:
-      path: muso.png
-      dark: images/logo.svg
+      path: IMG_0538.png
+      dark: IMG_0538.png
       link: /landusheva
       width: 120
       height: 60

@@ -5,7 +5,7 @@ weight: 4
 ---
 {{< icon "mail" >}}  Напишіть нам на [електронну пошту](mailto:landusheva.buro@gmail.com).
 
-{{< icon "instagram" >}}  Слідкуйте за нами в [Instagram](https://www.instagram.com/nastialandusheva/).
+{{< icon "instagram" >}}  Слідкуйте за нами в [Instagram](https://www.instagram.com/muso.story).
 
 {{< icon "phone" >}}  Подзвоніть нам: +380 50 818 81 64
 
