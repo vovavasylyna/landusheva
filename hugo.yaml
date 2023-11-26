@@ -1,5 +1,5 @@
 # Hugo configuration file
-title: бюро {ландушевої}
+title:
 
 # import hextra as module
 module:
@@ -42,7 +42,7 @@ params:
     displayTitle: true
     displayLogo: true
     logo:
-      path: images/logo.svg
+      path: muso.png
       dark: images/logo.svg
       link: /landusheva
       width: 120
