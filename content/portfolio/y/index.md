@@ -3,8 +3,8 @@ title: Y Apartment
 toc: false
 weight: 4
 type: docs
-prev: /landusheva/portfolio/plekay
-next: /landusheva/portfolio/calm-apartment
+prev: /portfolio/plekay
+next: /portfolio/calm-apartment
 ---
 ![y1](Gost_1.jpg)
 

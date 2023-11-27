@@ -46,7 +46,7 @@ params:
     logo:
       path: muso-logo-black.png
       dark: muso-logo-white.png
-      link: /landusheva
+      link: /
       width: 120
       height: 60
     enableInlineShortcodes: true
@@ -58,7 +58,3 @@ params:
   footer:
     enable: false
     displayCopyright: false
-
-  editURL:
-    enable: false
-    base: "https://github.com/imfing/hextra-starter-template/edit/main/content"

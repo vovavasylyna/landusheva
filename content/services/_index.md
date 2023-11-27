@@ -7,7 +7,7 @@ weight: 2
 Окрім цього, ми проводимо авторський супровід будівництва або ремонту – стежимо за тим, щоб будівельники не відхилялися від робочої документації
 
 {{< cards >}}
-  {{< card link="/landusheva/services/services-types" title="Види послуг" subtitle="Від планування та проектування до супроводу будівельно-ремонтних робіт" >}}
-  {{< card link="/landusheva/services/services-process" title="Як відбувається створення інтер'єру" subtitle="Детальний огляд процесу проектування" >}}
-  {{< card link="/landusheva/services/services-faq" title="Питання та відповіді" >}}
+  {{< card link="/services/services-types" title="Види послуг" subtitle="Від планування та проектування до супроводу будівельно-ремонтних робіт" >}}
+  {{< card link="/services/services-process" title="Як відбувається створення інтер'єру" subtitle="Детальний огляд процесу проектування" >}}
+  {{< card link="/services/services-faq" title="Питання та відповіді" >}}
 {{< /cards >}}

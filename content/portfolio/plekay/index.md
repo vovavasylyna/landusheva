@@ -2,8 +2,8 @@
 title: Плекай
 weight: 3
 type: docs
-next: /landusheva/portfolio/meditative-gray-apartment
-prev: /landusheva/portfolio/diadia
+next: /portfolio/meditative-gray-apartment
+prev: /portfolio/diadia
 ---
 ![1](plekay1.jpg)
 

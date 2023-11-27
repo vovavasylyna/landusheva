@@ -2,8 +2,8 @@
 title: VD Apartment
 weight: 7
 type: docs
-next: /landusheva/portfolio/diadia
-prev: /landusheva/portfolio/musthave
+next: /portfolio/diadia
+prev: /portfolio/musthave
 ---
 ![1](b02.jpg)
 

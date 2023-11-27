@@ -3,7 +3,7 @@ title: diadia
 toc: false
 weight: 2
 type: docs
-next: /landusheva/portfolio/plekay
+next: /portfolio/plekay
 ---
 ![diadia2](diadia2.jpg)
 

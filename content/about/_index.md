@@ -12,9 +12,9 @@ weight: 3
 Детальний огляд послуг можна знайти тут:
 
 {{< cards >}}
-  {{< card link="/landusheva/services" title="Послуги" >}}
+  {{< card link="/services" title="Послуги" >}}
 {{< /cards >}}
 
 Окрім цього, ми проводимо авторський супровід будівництва або ремонту – стежимо за тим, щоб будівельники не відхилялися від робочої документації.
 
-Давайте спілкуватися про майбутні проекти – напишіть на пошту [landusheva.buro@gmail.com](mailto:landusheva.buro@gmail.com), в [Instagram](https://www.instagram.com/muso.story) або зателефонуйте: +380 50 818 81 64. Ми відповімо у найближчий час.
+Давайте спілкуватися про майбутні проекти – напишіть на [електронну пошту](mailto:landusheva.buro@gmail.com), в [Instagram](https://www.instagram.com/muso.story) або зателефонуйте: +380 50 818 81 64. Ми відповімо у найближчий час.

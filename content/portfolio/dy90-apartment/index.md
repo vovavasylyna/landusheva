@@ -2,8 +2,8 @@
 title: DY90 Apartment
 weight: 6
 type: docs
-prev: /landusheva/portfolio/meditative-gray-apartment
-next: /landusheva/portfolio/musthave
+prev: /portfolio/meditative-gray-apartment
+next: /portfolio/musthave
 ---
 ![1](dy1.jpg)
 
