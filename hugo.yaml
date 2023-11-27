@@ -1,5 +1,6 @@
 # Hugo configuration file
 title:
+baseURL: "https://musostory.com/"
 
 # import hextra as module
 module:
