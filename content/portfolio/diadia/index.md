@@ -4,7 +4,7 @@ toc: false
 weight: 2
 type: docs
 next: /portfolio/plekay
-next: /portfolio/vd
+prev: /portfolio/od
 ---
 ![diadia1](diadia1.jpg)
 

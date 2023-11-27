@@ -1,8 +1,8 @@
 ---
 title: V&D Respublika Place
-weight: 7
+weight: 8
 type: docs
-next: /portfolio/diadia
+next: /portfolio/y
 prev: /portfolio/musthave
 ---
 ![1](b02.jpg)

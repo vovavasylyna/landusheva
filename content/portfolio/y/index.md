@@ -1,9 +1,9 @@
 ---
 title: Y Respublika Place
 toc: false
-weight: 8
+weight: 9
 type: docs
-prev: /portfolio/musthave
+prev: /portfolio/vd
 next: /portfolio/london
 ---
 ![y1](Gost_1.jpg)

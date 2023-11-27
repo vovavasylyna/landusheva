@@ -1,8 +1,8 @@
 ---
 title: O&D Respublika place
-weight: 9
+weight: 11
 type: docs
-next: /portfolio/vd
+next: /portfolio/diadia
 prev: /portfolio/london
 ---
 ![od1](od1.jpg)
