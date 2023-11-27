@@ -38,6 +38,7 @@ menu:
         icon: instagram
 
 params:
+  description: Київське бюро інтер’єрів з фокусом на легкості, чистоті та творчості.
   navbar:
     displayTitle: true
     displayLogo: true
@@ -54,6 +55,7 @@ params:
     width: full
 
   footer:
+    enable: false
     displayCopyright: false
 
   editURL:
