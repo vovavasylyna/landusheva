@@ -1,9 +1,9 @@
 ---
 title: Calm Apartment
 toc: false
-weight: 4
+weight: 5
 type: docs
-prev: /landusheva/portfolio/plekay
+prev: /landusheva/portfolio/y
 next: /landusheva/portfolio/meditative-gray-apartment
 ---
 ![1](calm1.jpg)

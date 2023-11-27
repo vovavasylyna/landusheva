@@ -2,7 +2,7 @@
 title: MustHave
 weight: 6
 type: docs
-next: /landusheva/portfolio/plekay
+next: /landusheva/portfolio/vd
 prev: /landusheva/portfolio/dy90
 ---
 ![1](musthave1.jpg)

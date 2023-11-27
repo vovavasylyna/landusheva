@@ -9,5 +9,5 @@ weight: 2
 {{< cards >}}
   {{< card link="/landusheva/services/services-types" title="Види послуг" subtitle="Від планування та проектування до супроводу будівельно-ремонтних робіт" >}}
   {{< card link="/landusheva/services/services-process" title="Як відбувається створення інтер'єру" subtitle="Детальний огляд процесу проектування" >}}
-  {{< card link="/landusheva/services/services-faq" title="FAQ" >}}
+  {{< card link="/landusheva/services/services-faq" title="Питання та відповіді" >}}
 {{< /cards >}}

@@ -1,9 +1,9 @@
 ---
 title: Meditative Gray Apartment
-weight: 4
+weight: 5
 type: docs
-next: /landusheva/portfolio/dy90-apartment
 prev: /landusheva/portfolio/calm-apartment
+next: /landusheva/portfolio/dy90-apartment
 ---
 ![1](meditative1.jpg)
 
