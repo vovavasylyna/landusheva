@@ -1,5 +1,5 @@
 ---
-title: VD Apartment
+title: V&D Respublika Place
 weight: 7
 type: docs
 next: /portfolio/diadia

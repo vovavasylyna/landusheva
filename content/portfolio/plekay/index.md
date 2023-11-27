@@ -1,8 +1,8 @@
 ---
-title: Плекай
+title: Plekay bookstore
 weight: 3
 type: docs
-next: /portfolio/meditative-gray-apartment
+next: /portfolio/meditative
 prev: /portfolio/diadia
 ---
 ![1](plekay1.jpg)

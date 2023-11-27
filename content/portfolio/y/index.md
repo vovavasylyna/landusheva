@@ -1,10 +1,10 @@
 ---
-title: Y Apartment
+title: Y Respublika Place
 toc: false
-weight: 4
+weight: 8
 type: docs
-prev: /portfolio/plekay
-next: /portfolio/calm-apartment
+prev: /portfolio/musthave
+next: /portfolio/london
 ---
 ![y1](Gost_1.jpg)
 

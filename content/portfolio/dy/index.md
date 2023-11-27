@@ -1,8 +1,8 @@
 ---
-title: DY90 Apartment
+title: D&Y Respublika Place
 weight: 6
 type: docs
-prev: /portfolio/meditative-gray-apartment
+prev: /portfolio/calm
 next: /portfolio/musthave
 ---
 ![1](dy1.jpg)

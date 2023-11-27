@@ -1,9 +1,9 @@
 ---
-title: MustHave
-weight: 6
+title: MustHave showroom
+weight: 7
 type: docs
-next: /portfolio/vd
-prev: /portfolio/dy90
+next: /portfolio/y
+prev: /portfolio/dy
 ---
 ![1](musthave1.jpg)
 
