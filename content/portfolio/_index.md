@@ -15,4 +15,5 @@ weight: 1
   {{< card link="/portfolio/london" title="London penthouse" image="l1.jpg" method="Resize" options="600x q80 webp" >}}
   {{< card link="/portfolio/od" title="O&D Respublika place" image="od1.jpg" method="Resize" options="600x q80 webp" >}}
   {{< card link="/portfolio/vd" title="VD Respublika place" image="vd1.jpg" method="Resize" options="600x q80 webp" >}}
+  {{< card link="/portfolio/k" title="Kateryna" image="k1.jpg" method="Resize" options="600x q80 webp" >}}
 {{< /cards >}}
