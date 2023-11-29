@@ -8,6 +8,7 @@ weight: 2
 
 {{< cards >}}
   {{< card link="/services/services-types" title="Види послуг" subtitle="Від планування та проектування до супроводу будівельно-ремонтних робіт" >}}
-  {{< card link="/services/services-process" title="Як відбувається створення інтер'єру" subtitle="Детальний огляд процесу проектування" >}}
-  {{< card link="/services/services-faq" title="Питання та відповіді" >}}
+  {{< card link="/services/process" title="Як відбувається створення інтер'єру" subtitle="Детальний огляд процесу проектування" >}}
+  {{< card link="/services/consulting" title="Консультації" subtitle="Замовлення онлайн-консультацій у експерта" >}}
+  {{< card link="/services/faq" title="Питання та відповіді" >}}
 {{< /cards >}}

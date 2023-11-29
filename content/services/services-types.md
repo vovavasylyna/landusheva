@@ -50,6 +50,11 @@ weight: 1
 * постійна підтримка зв'язку з клієнтом
 * звітність закупівель
 
+#### 7. Консультації від експерта
+
+[Дізнайтеся детальніше](/services/consulting).
+
+
 {{< cards >}}
   {{< card link="/landusheva/portfolio" title="Портфоліо" subtitle="Приклади проектів бюро" method="Resize" options="600x q80 webp" >}}
   {{< card link="/landusheva/services/services-faq" title="FAQ" subtitle="Відповіді на всі питання щодо послуг і бюро в цілому" >}}

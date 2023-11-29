@@ -1,5 +1,5 @@
 # Hugo configuration file
-title:
+title: MUSO
 baseURL: "https://musostory.com/"
 
 # import hextra as module
@@ -41,14 +41,14 @@ menu:
 params:
   description: Київське бюро інтер’єрів з фокусом на легкості, чистоті та творчості.
   navbar:
-    displayTitle: true
+    displayTitle: false
     displayLogo: true
     logo:
       path: muso-logo-black.png
       dark: muso-logo-white.png
       link: /
       width: 120
-      height: 60
+      height: 100
     enableInlineShortcodes: true
 
   page:
