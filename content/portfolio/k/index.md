@@ -1,10 +1,20 @@
 ---
-title: Kateryna
+title: K Slavutich place
 weight: 12
 type: docs
 next: /portfolio/diadia
 prev: /portfolio/od
 ---
+Квартира для молодої дівчини
+
+**Локація**: Київ
+
+**Рік створення**: 2022
+
+**Статус проекту**: реалізований
+
+**Тип приміщення**: житлові простори
+
 ![k1](k1.jpg)
 
 ![k2](k2.jpg)
