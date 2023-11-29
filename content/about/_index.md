@@ -1,6 +1,5 @@
 ---
 title: Про нас
-type: about
 toc: false
 weight: 3
 ---
