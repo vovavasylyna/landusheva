@@ -15,7 +15,6 @@
     {{ with .Title }}{{ . }} – {{ end -}}
     {{ .Site.Title -}}
   {{ end -}}</title>
-  <meta name="description" content="{{ partial "utils/page-description.html" . }}" />
 
   {{ partial "opengraph.html" . }}
   {{ template "_internal/schema.html" . -}}
