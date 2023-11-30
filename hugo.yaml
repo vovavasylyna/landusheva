@@ -59,3 +59,8 @@ params:
   footer:
     enable: true
     displayCopyright: false
+
+  sitemap:
+   changeFreq: ""
+   filename: sitemap.xml
+   priority: -1
