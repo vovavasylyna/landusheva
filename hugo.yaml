@@ -1,6 +1,7 @@
 # Hugo configuration file
 title: MUSO
 baseURL: "https://musostory.com/"
+description: Київське бюро інтер’єрів з фокусом на легкості, чистоті та творчості.
 
 # import hextra as module
 module:
