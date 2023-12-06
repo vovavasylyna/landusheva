@@ -23,11 +23,15 @@
   {{ partialCached "head-css.html" . }}
 
 
-  <!-- Google Analytics -->
-  {{- if and (eq hugo.Environment "production") (or .Site.GoogleAnalytics .Site.Config.Services.GoogleAnalytics.ID) }}
-    <link rel="preconnect" href="https://www.googletagmanager.com" crossorigin />
-    {{ partial "google-analytics.html" . }}
-  {{- end }}
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-F4HJ52T8BG"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-F4HJ52T8BG');
+</script>
 
 
   <script>

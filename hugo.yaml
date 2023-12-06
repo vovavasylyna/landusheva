@@ -64,7 +64,3 @@ params:
    changeFreq: ""
    filename: sitemap.xml
    priority: -1
-
-services:
-  googleAnalytics:
-    ID: G-F4HJ52T8BG
