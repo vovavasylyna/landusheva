@@ -1,6 +1,6 @@
 ---
 title: Магазин
-weight: 1
+type: default
 ---
 
 {{< cards >}}

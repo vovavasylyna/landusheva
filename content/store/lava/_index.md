@@ -1,7 +1,5 @@
 ---
 title: Лава
-weight: 3
-type: docs
 ---
 <center>
 {{< gallery-slider dir="/lava" width="350px" height="500px">}}</center>

@@ -1,7 +1,5 @@
 ---
 title: Дзеркало
-weight: 2
-type: docs
 ---
 <center>
 {{< gallery-slider dir="/dzerkalo" width="350px" height="500px">}}</center>

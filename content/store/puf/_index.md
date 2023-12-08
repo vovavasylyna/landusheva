@@ -1,7 +1,5 @@
 ---
 title: Пуф
-weight: 4
-type: docs
 ---
 <center>
 {{< gallery-slider dir="/puf" width="350px" height="500px">}}</center>
