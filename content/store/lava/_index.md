@@ -5,6 +5,7 @@ type: docs
 ---
 <center>
 {{< gallery-slider dir="/lava" width="350px" height="500px">}}</center>
+<br/><br/>
 
 **Ціна**\
 14 000 ₴

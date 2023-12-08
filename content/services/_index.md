@@ -16,6 +16,8 @@ weight: 2
 https://forms.gle/j7dEVhp2pfNFqMLs6
 
 Будемо раді співпраці!
+<br/><br/>
+<br/><br/>
 
 {{< cards >}}
   {{< card link="/services/services-types" title="Види послуг" subtitle="Від планування та проектування до супроводу будівельно-ремонтних робіт" >}}

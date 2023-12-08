@@ -5,6 +5,7 @@ type: docs
 ---
 <center>
 {{< gallery-slider dir="/puf" width="350px" height="500px">}}</center>
+<br/><br/>
 
 {{< tabs items="Маленький,Великий" >}}
 

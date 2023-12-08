@@ -5,6 +5,7 @@ type: docs
 ---
 <center>
 {{< gallery-slider dir="/dzerkalo" width="350px" height="500px">}}</center>
+<br/><br/>
 
 **Ціна**\
 18 000 ₴
