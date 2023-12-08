@@ -3465,3 +3465,12 @@ body {
     display: block;
   }
 }
+
+.btn--fill, .btn--secondary, .cart__totals-button, .cf-form-actions button {
+  --tw-bg-opacity: 1;
+  --tw-text-opacity: 1;
+  max-width: 30%;
+  height: 3rem;
+  background-color: rgb(17 17 17/var(--tw-bg-opacity));
+  color: rgb(252 252 250/var(--tw-text-opacity));
+}
