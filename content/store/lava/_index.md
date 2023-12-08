@@ -5,7 +5,7 @@ type: docs
 ---
 
 <center>
-{{< gallery-slider dir="/lava" width="400px" height="600px">}}</center>
+{{< gallery-slider dir="/lava" width="350px" height="500px">}}</center>
 
 **Опис**\
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla at pretium odio. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aenean vitae ipsum neque. Nulla et dictum velit, in rhoncus est. Ut at posuere ante. Sed sed hendrerit neque.
