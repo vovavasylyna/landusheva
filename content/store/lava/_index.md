@@ -1,11 +1,13 @@
 ---
 title: Лава
-weight: 2
+weight: 3
 type: docs
 ---
-
 <center>
 {{< gallery-slider dir="/lava" width="350px" height="500px">}}</center>
+
+**Ціна**\
+14 000 ₴
 
 **Опис**\
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla at pretium odio. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aenean vitae ipsum neque. Nulla et dictum velit, in rhoncus est. Ut at posuere ante. Sed sed hendrerit neque.
@@ -18,5 +20,4 @@ Certifications: UL Listed, Damp Rated
 **3D-модель**\
 [Завантажити .max-файл](dzerkalo.max)
 
-<a href=/ class="not-prose font-medium cursor-pointer px-6 py-3 rounded-full text-center text-white inline-block bg-primary-600 hover:bg-primary-700 focus:outline-none focus:ring-4 focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800 transition-all ease-in duration-200">Купити</a>
-
+<a href=/><button type="submit" name="add" class="btn--fill w-full" data-text="Add to Cart">Купити</button></a>
