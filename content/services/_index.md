@@ -13,10 +13,11 @@ weight: 2
 Якщо ви зазначите площу приміщення, ми підготуємо для вас детальну комерційну пропозицію, в якій будуть розписані всі важливі деталі та що включено в повний пакет проектування. 
 
 Посилання на форму для отримання комерційної пропозиції протягом 1 години:
-https://forms.gle/j7dEVhp2pfNFqMLs6
+<br></br>
+<center><a href=https://forms.gle/j7dEVhp2pfNFqMLs6><button type="submit" name="add" class="btn--fill w-full" data-text="Add to Cart">Заповнити форму</button></a></center>
+
 
 Будемо раді співпраці!
-<br/><br/>
 <br/><br/>
 
 {{< cards >}}
