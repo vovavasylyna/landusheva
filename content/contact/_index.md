@@ -16,4 +16,8 @@ musostory&#064;gmail.com
 Будемо раді поспілкуватись, якщо ви наш потенційний клієнт або підрядник
 
 Пн - Пт, 9:00 - 18:00
+
+Заповніть форму та отримайте комерційну пропозицію:
+<br></br>
+<center><a href=https://forms.gle/j7dEVhp2pfNFqMLs6><button type="submit" name="add" class="btn--fill w-full" data-text="Add to Cart">Заповнити форму</button></a></center>
 </center>

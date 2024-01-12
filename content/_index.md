@@ -11,3 +11,6 @@ toc: false
   {{< card link="/portfolio" title="Портфоліо" image="vis2.jpg" subtitle="Приклади проектів бюро" method="Resize" options="600x q80 webp" >}}
   {{< card link="/services/faq" title="Питання та відповіді" image="qa2.jpg" subtitle="Відповіді на всі питання щодо послуг і бюро в цілому" method="Resize" options="600x q80 webp" >}}
 {{< /cards >}}
+<br></br>
+<center><a href=https://forms.gle/j7dEVhp2pfNFqMLs6><button type="submit" name="add" class="btn--fill w-full" data-text="Add to Cart">Прорахувати вартість</button></a></center>
+<br></br>
