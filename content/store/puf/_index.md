@@ -1,5 +1,5 @@
 ---
-title: Пуф
+title: Пуф "Іршава"
 ---
 <center>
 {{< gallery-slider dir="/puf" width="350px" height="500px">}}</center>
