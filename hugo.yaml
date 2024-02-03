@@ -35,7 +35,7 @@ menu:
       weight: 4
     - name: Instagram
       weight: 5
-      url: "https://www.instagram.com/muso.story"
+      url: "https://www.instagram.com/nastialandusheva/"
       params:
         icon: instagram
 
