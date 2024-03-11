@@ -7,7 +7,7 @@ weight: 4
 <center>
 <p>Студія MUSO</p>
 <p><i>Soon!</i></p>
-Виговського 13, 04136, Київ
+Костянтинівська 20, Київ
 
 musostory&#064;gmail.com
 
