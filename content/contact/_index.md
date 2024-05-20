@@ -6,12 +6,12 @@ weight: 4
 <p></p>
 <center>
 <p>Студія MUSO</p>
-<p><i>Soon!</i></p>
+
 Костянтинівська 20, Київ
 
-musostory&#064;gmail.com
-
-+380 50 818 81 64
+musostory&#064;gmail.com  
++380 50 818 81 64  
+Telegram: @musostory
 
 Будемо раді поспілкуватись, якщо ви наш потенційний клієнт або підрядник
 

@@ -35,9 +35,14 @@ menu:
       weight: 4
     - name: Instagram
       weight: 5
-      url: "https://www.instagram.com/nastialandusheva/"
+      url: "https://www.instagram.com/muso.story/"
       params:
         icon: instagram
+    - name: Telegram
+      weight: 6
+      url: "https://t.me/musostory" 
+      params:
+        icon: telegram
 
 params:
   description: Київське бюро інтер’єрів з фокусом на легкості, чистоті та творчості.

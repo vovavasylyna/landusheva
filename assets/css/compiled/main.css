@@ -150,7 +150,7 @@ sup {
 */
 
 table {
-  text-indent: 0; /* 1 */
+  text-indent: 1; /* 1 */
   border-color: inherit; /* 2 */
   border-collapse: collapse; /* 3 */
 }
