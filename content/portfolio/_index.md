@@ -7,6 +7,7 @@ weight: 1
 {{< cards >}}
   {{< card link="/portfolio/diadia" title="diadia showroom" image="diadia1.jpg" method="Resize" options="600x q80 webp" >}}
   {{< card link="/portfolio/plekay" title="Plekay Podil" image="plekay1.jpg" method="Resize" options="600x q80 webp" >}}
+  {{< card link="/portfolio/stalinka" title="Stalinka" image="stalinka1.jpg" method="Resize" options="600x q80 webp" >}}
   {{< card link="/portfolio/meditative" title="Meditative Gray Apartment" image="meditative1.jpg" method="Resize" options="600x q80 webp" >}}
   {{< card link="/portfolio/calm" title="Calm Apartment" image="calm1.jpg" method="Resize" options="600x q80 webp" >}}
   {{< card link="/portfolio/dy" title="D&Y Respublika place" image="dy1.jpg" method="Resize" options="600x q80 webp" >}}
