@@ -5,6 +5,7 @@ weight: 1
 ---
 
 {{< cards >}}
+  {{< card link="/portfolio/grasse" title="Familie Grasse showroom" image="grasse1.jpg" method="Resize" options="600x q80 webp" >}}
   {{< card link="/portfolio/diadia" title="diadia showroom" image="diadia1.jpg" method="Resize" options="600x q80 webp" >}}
   {{< card link="/portfolio/plekay" title="Plekay Podil" image="plekay1.jpg" method="Resize" options="600x q80 webp" >}}
   {{< card link="/portfolio/stalinka" title="Stalinka" image="stalinka1.jpg" method="Resize" options="600x q80 webp" >}}

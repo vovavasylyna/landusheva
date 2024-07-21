@@ -4,7 +4,7 @@ toc: false
 weight: 2
 type: docs
 next: /portfolio/plekay
-prev: /portfolio/od
+prev: /portfolio/grasse
 ---
 Шоурум для закарпатського бренду одягу 
 
