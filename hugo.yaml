@@ -43,6 +43,11 @@ menu:
       url: "https://t.me/musostory" 
       params:
         icon: telegram
+    - name: Behance
+      weight: 7
+      url: "https://www.behance.net/musostory" 
+      params:
+        icon: behance
 
 params:
   description: Київське бюро інтер’єрів з фокусом на легкості, чистоті та творчості.
