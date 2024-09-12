@@ -30,18 +30,6 @@ weight: 3
 <br></br>
 <p></p>
 <p></p>
-
-<figure class="image image_resized image-style-block-align-left" style="width:44.51%;" data-ckbox-resource-id="rQHJohC-gEQ_">
-    <picture>
-  <img src="/about/mariia.png" width="644" height="731">
-    </picture>
-</figure>
-
-**Марія**  
-Майстриня детальних креслень  
-Не тільки відчуває пропорції, а й вміє передати їх через креслення так, що приміщення "оживає" при реалізації.  
-Надихається estudio DIIR, John Pawson, Norm Architects, CJN Studio, Alvar Aalto, Peter Zumthor, Jan Kinsbergen
-<br></br>
 <p></p>
 <p></p>
 <figure class="image image_resized image-style-block-align-left" style="width:44.51%;" data-ckbox-resource-id="rQHJohC-gEQ_">
