@@ -1,6 +1,6 @@
 ---
 title: D&Y Respublika Place
-weight: 6
+weight: 8
 type: docs
 prev: /portfolio/calm
 next: /portfolio/musthave

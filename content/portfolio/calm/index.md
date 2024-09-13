@@ -1,7 +1,7 @@
 ---
 title: Calm Apartment
 toc: false
-weight: 5
+weight: 7
 type: docs
 prev: /portfolio/meditative
 next: /portfolio/dy

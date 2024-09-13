@@ -1,6 +1,6 @@
 ---
 title: Meditative Gray Apartment
-weight: 4
+weight: 6
 type: docs
 prev: /portfolio/plekay
 next: /portfolio/calm

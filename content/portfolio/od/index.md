@@ -1,6 +1,6 @@
 ---
 title: O&D Respublika place
-weight: 11
+weight: 13
 type: docs
 next: /portfolio/k
 prev: /portfolio/london

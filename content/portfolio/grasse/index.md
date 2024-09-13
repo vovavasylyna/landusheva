@@ -1,10 +1,10 @@
 ---
 title: Familie Grasse
 toc: false
-weight: 1
+weight: 3
 type: docs
 next: /portfolio/diadia
-prev: /portfolio/stalinka
+prev: /portfolio/sandra-and-vlad
 ---
 
 Парфумерний магазин

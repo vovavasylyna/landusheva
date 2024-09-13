@@ -1,6 +1,6 @@
 ---
 title: London penthouse
-weight: 10
+weight: 12
 type: docs
 next: /portfolio/od
 prev: /portfolio/y

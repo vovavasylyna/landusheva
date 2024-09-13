@@ -1,6 +1,6 @@
 ---
 title: V&D Respublika Place
-weight: 8
+weight: 10
 type: docs
 next: /portfolio/y
 prev: /portfolio/musthave

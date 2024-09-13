@@ -1,7 +1,7 @@
 ---
 title: diadia showroom
 toc: false
-weight: 2
+weight: 4
 type: docs
 next: /portfolio/plekay
 prev: /portfolio/grasse

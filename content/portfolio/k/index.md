@@ -1,8 +1,8 @@
 ---
 title: K Slavutich place
-weight: 12
+weight: 14
 type: docs
-next: /portfolio/diadia
+next: /portfolio/stalinka
 prev: /portfolio/od
 ---
 Квартира для молодої дівчини

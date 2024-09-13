@@ -1,7 +1,7 @@
 ---
 title: Y Respublika Place
 toc: false
-weight: 9
+weight: 11
 type: docs
 prev: /portfolio/vd
 next: /portfolio/london

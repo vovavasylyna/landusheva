@@ -1,9 +1,9 @@
 ---
 title: Stalinka
 toc: false
-weight: 0
+weight: 15
 type: docs
-next: /portfolio/diadia
+next: /portfolio/d-apartment
 prev: /portfolio/k
 ---
 

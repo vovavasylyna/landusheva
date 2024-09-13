@@ -1,6 +1,6 @@
 ---
 title: MustHave showroom
-weight: 7
+weight: 9
 type: docs
 next: /portfolio/y
 prev: /portfolio/dy
