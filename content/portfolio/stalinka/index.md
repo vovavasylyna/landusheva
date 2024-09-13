@@ -3,7 +3,7 @@ title: Stalinka
 toc: false
 weight: 15
 type: docs
-next: /portfolio/d-apartment
+next: /portfolio/grasse
 prev: /portfolio/k
 ---
 

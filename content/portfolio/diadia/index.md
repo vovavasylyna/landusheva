@@ -1,9 +1,9 @@
 ---
 title: diadia showroom
 toc: false
-weight: 4
+weight: 2
 type: docs
-next: /portfolio/plekay
+next: /portfolio/d-apartment
 prev: /portfolio/grasse
 ---
 Шоурум для закарпатського бренду одягу 

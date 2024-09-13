@@ -1,7 +1,7 @@
 ---
 title: Sandra & Vlad Apartment
 toc: false
-weight: 2
+weight: 4
 type: docs
 next: /portfolio/grasse
 prev: /portfolio/d-apartment

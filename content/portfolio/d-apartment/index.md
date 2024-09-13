@@ -1,10 +1,10 @@
 ---
 title: D Apartment
 toc: false
-weight: 1
+weight: 3
 type: docs
 next: /portfolio/sandra-and-vlad
-prev: /portfolio/stalinka
+prev: /portfolio/diadia
 ---
 
 Квартира для молодої дівчини
@@ -13,8 +13,6 @@ prev: /portfolio/stalinka
 **Рік створення**: 2024\
 **Статус проекту**: будується\
 **Тип приміщення**: житлові простори
-
-![d-apartment1](l1.jpg)
 
 ![d-apartment2](l2.jpg)
 
@@ -41,6 +39,8 @@ prev: /portfolio/stalinka
 ![d-apartment11](l13.jpg)
 
 ![d-apartment11](l14.jpg)
+
+![d-apartment1](l1.jpg)
 
 ![d-apartment1](b1.jpg)
 
