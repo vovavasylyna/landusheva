@@ -9,7 +9,7 @@ weight: 4
 
 Костянтинівська 20, Київ
 
-musostory&#064;gmail.com  
+team&#064;musostory.com  
 +380 50 818 81 64  
 Telegram: @musostory
 
